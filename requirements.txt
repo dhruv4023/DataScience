@@ -4,4 +4,4 @@ matplotlib
 pandas
 
 jupyter
-torch==2.2.2
+torch==2.2.2+cu118
