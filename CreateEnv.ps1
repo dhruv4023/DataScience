@@ -33,7 +33,7 @@ if ($venvExists) {
 # Install dependencies
 Write-Host "Installing dependencies..."
 python -m pip install -r $requirementsFile
-python -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+python -m pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118
 Write-Host "+--------------------------------------------------------------------------------------+"
 Write-Host "All modules installed successfully"
 Write-Host "+--------------------------------------------------------------------------------------+"
