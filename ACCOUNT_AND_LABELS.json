@@ -1,0 +1,200 @@
+[
+    {
+        "_id": "dhruv4023",
+        "labels": [
+            {
+                "_id": "68452654875555",
+                "label_name": "Opening Balance",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.198139",
+                "updated_on": "2024-07-22 20:43:24.198139"
+            },
+            {
+                "_id": "18729076430174",
+                "label_name": "Recharge",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.198139",
+                "updated_on": "2024-07-22 20:43:24.198139"
+            },
+            {
+                "_id": "91637611820512",
+                "label_name": "STUDY",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.198139",
+                "updated_on": "2024-07-22 20:43:24.198139"
+            },
+            {
+                "_id": "30557606807397",
+                "label_name": "Other",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.198139",
+                "updated_on": "2024-07-22 20:43:24.198139"
+            },
+            {
+                "_id": "10016570413291",
+                "label_name": "MUMMY",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.206111",
+                "updated_on": "2024-07-22 20:43:24.206111"
+            },
+            {
+                "_id": "28314899132369",
+                "label_name": "Insurance",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.206111",
+                "updated_on": "2024-07-22 20:43:24.206111"
+            },
+            {
+                "_id": "14114676785531",
+                "label_name": "Interest",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.206111",
+                "updated_on": "2024-07-22 20:43:24.206111"
+            },
+            {
+                "_id": "25244734299491",
+                "label_name": "ME",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.206111",
+                "updated_on": "2024-07-22 20:43:24.206111"
+            },
+            {
+                "_id": "31323554562404",
+                "label_name": "SELF TRANSFER",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.206111",
+                "updated_on": "2024-07-22 20:43:24.206111"
+            },
+            {
+                "_id": "33633078927509",
+                "label_name": "Bills",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.214266",
+                "updated_on": "2024-07-22 20:43:24.214266"
+            },
+            {
+                "_id": "25743670099813",
+                "label_name": "Transport",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.214266",
+                "updated_on": "2024-07-22 20:43:24.214266"
+            },
+            {
+                "_id": "38495175942142",
+                "label_name": "KIRTAN",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.222274",
+                "updated_on": "2024-07-22 20:43:24.222274"
+            },
+            {
+                "_id": "20501626180120",
+                "label_name": "Bank Charges",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.222274",
+                "updated_on": "2024-07-22 20:43:24.222274"
+            },
+            {
+                "_id": "14902088892166",
+                "label_name": "CASHBACK",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.230282",
+                "updated_on": "2024-07-22 20:43:24.230282"
+            },
+            {
+                "_id": "33235844425962",
+                "label_name": "Top Deals",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.230282",
+                "updated_on": "2024-07-22 20:43:24.230282"
+            },
+            {
+                "_id": "12729454377459",
+                "label_name": "Food",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.278652",
+                "updated_on": "2024-07-22 20:43:24.278652"
+            },
+            {
+                "_id": "63778844582950",
+                "label_name": "HIGHER STUDY",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.310681",
+                "updated_on": "2024-07-22 20:43:24.310681"
+            },
+            {
+                "_id": "12395957276948",
+                "label_name": "Amazon",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.342664",
+                "updated_on": "2024-07-22 20:43:24.342664"
+            },
+            {
+                "_id": "15797032244491",
+                "label_name": "FK",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.375124",
+                "updated_on": "2024-07-22 20:43:24.375124"
+            },
+            {
+                "_id": "34659394628153",
+                "label_name": "GPAY LITE",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.431139",
+                "updated_on": "2024-07-22 20:43:24.431139"
+            },
+            {
+                "_id": "19325320277570",
+                "label_name": "HOTEL REVIEW",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.447274",
+                "updated_on": "2024-07-22 20:43:24.447274"
+            },
+            {
+                "_id": "33464679881935",
+                "label_name": "RECHARGE",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.494396",
+                "updated_on": "2024-07-22 20:43:24.494396"
+            },
+            {
+                "_id": "77260949747620",
+                "label_name": "HARIOM POLICE",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.494396",
+                "updated_on": "2024-07-22 20:43:24.494396"
+            }
+        ],
+        "accounts": [
+            {
+                "_id": "10012280149706",
+                "account_name": "8663",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.198139",
+                "updated_on": "2024-07-22 20:43:24.198139"
+            },
+            {
+                "_id": "18020981994327",
+                "account_name": "1660",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.198139",
+                "updated_on": "2024-07-22 20:43:24.198139"
+            },
+            {
+                "_id": "67541031723530",
+                "account_name": "7373",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.198139",
+                "updated_on": "2024-07-22 20:43:24.198139"
+            },
+            {
+                "_id": "42803670438172",
+                "account_name": "Pocket",
+                "default": false,
+                "added_on": "2024-07-22 20:43:24.407153",
+                "updated_on": "2024-07-22 20:43:24.407153"
+            }
+        ],
+        "added_on": "2024-07-22 20:43:24.198139",
+        "updated_on": "2024-07-22 20:43:24.494396"
+    }
+]
